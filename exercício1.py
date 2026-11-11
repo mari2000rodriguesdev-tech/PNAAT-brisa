@@ -9,3 +9,5 @@ d = 2
 
 expressao_math_complexa = ((a * b) + (c / d)) - (a ** b)
 print(expressao_math_complexa)
+
+#-319.5
